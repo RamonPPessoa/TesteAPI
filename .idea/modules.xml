@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/API_Rest_SpringWeb_Swagger.iml" filepath="$PROJECT_DIR$/.idea/API_Rest_SpringWeb_Swagger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/primeiro-web-api/primeiro-web-api.iml" filepath="$PROJECT_DIR$/primeiro-web-api/primeiro-web-api.iml" />
+    </modules>
+  </component>
+</project>
